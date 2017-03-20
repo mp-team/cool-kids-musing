@@ -1,0 +1,4 @@
+database:
+  database: cool-kids-musing_test
+
+auth-dummy-login: true
